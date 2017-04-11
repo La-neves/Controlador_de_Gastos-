@@ -1,0 +1,300 @@
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\App_controlador_gastos.pdb
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmDespesas.resources
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.Properties.Resources.resources
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.csproj.GenerateResource.Cache
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.pdb
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmReceitas.resources
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmTelaPrincipal.resources
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\App_controlador_gastos.exe.config
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\App_controlador_gastos.exe
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.csprojResolveAssemblyReference.cache
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.exe
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmConsultaReceitas.resources
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmConsultaDespesas.resources
+C:\Users\LaizeNeves\documents\visual studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmRelatorioReceita.resources
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\EnvDTE.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\stdole.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\EnvDTE80.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\VSLangProj.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\VSLangProj80.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\VSLangProj2.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.csproj.App_controlador_gastos.exe.config
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\libcef.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\libEGL.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\libGLESv2.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\ffmpegsumo.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\d3dcompiler_47.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\d3dcompiler_43.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\pdf.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\cef.pak
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\cef_100_percent.pak
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\cef_200_percent.pak
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\devtools_resources.pak
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\icudtl.dat
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Xilium.CefGlue.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Xilium.CefGlue.WindowsForms.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LaizeNeves\Documents\Visual Studio 2015\Projects\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmTelaRelatorioReceita.resources
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\libcef.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\libEGL.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\libGLESv2.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ffmpegsumo.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\d3dcompiler_47.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\d3dcompiler_43.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\pdf.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\cef.pak
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\cef_100_percent.pak
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\cef_200_percent.pak
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\devtools_resources.pak
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\icudtl.dat
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\App_controlador_gastos.exe.config
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\App_controlador_gastos.exe
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\App_controlador_gastos.pdb
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Xilium.CefGlue.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Xilium.CefGlue.WindowsForms.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\EnvDTE.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.Build.Framework.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\stdole.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\EnvDTE80.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.Build.Tasks.Core.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\VSLangProj.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\VSLangProj80.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Newtonsoft.Json.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\System.Threading.Tasks.Dataflow.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.MSXML.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.Build.Utilities.Core.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\VSLangProj2.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.csprojResolveAssemblyReference.cache
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.csproj.App_controlador_gastos.exe.config
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmConsultaDespesas.resources
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmDespesas.resources
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmReceitas.resources
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmConsultaReceitas.resources
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmRelatorioReceita.resources
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmTelaPrincipal.resources
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.frmTelaRelatorioReceita.resources
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.Properties.Resources.resources
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.csproj.GenerateResource.Cache
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.exe
+G:\Programs Developer\Projeto Controlador Gastos\App_controlador_gastos\App_controlador_gastos\obj\Debug\App_controlador_gastos.pdb
